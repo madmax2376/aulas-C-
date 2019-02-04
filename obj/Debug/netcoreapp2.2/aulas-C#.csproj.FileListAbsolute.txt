@@ -1,0 +1,11 @@
+C:\Users\Mauricio\Desktop\aulas-C#\bin\Debug\netcoreapp2.2\aulas-C#.deps.json
+C:\Users\Mauricio\Desktop\aulas-C#\bin\Debug\netcoreapp2.2\aulas-C#.runtimeconfig.json
+C:\Users\Mauricio\Desktop\aulas-C#\bin\Debug\netcoreapp2.2\aulas-C#.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\aulas-C#\bin\Debug\netcoreapp2.2\aulas-C#.dll
+C:\Users\Mauricio\Desktop\aulas-C#\bin\Debug\netcoreapp2.2\aulas-C#.pdb
+C:\Users\Mauricio\Desktop\aulas-C#\obj\Debug\netcoreapp2.2\aulas-C#.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\aulas-C#\obj\Debug\netcoreapp2.2\aulas-C#.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\aulas-C#\obj\Debug\netcoreapp2.2\aulas-C#.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\aulas-C#\obj\Debug\netcoreapp2.2\aulas-C#.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\aulas-C#\obj\Debug\netcoreapp2.2\aulas-C#.dll
+C:\Users\Mauricio\Desktop\aulas-C#\obj\Debug\netcoreapp2.2\aulas-C#.pdb
