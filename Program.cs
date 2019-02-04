@@ -1,13 +1,16 @@
-﻿using System;
-
-namespace aulas_C_
+﻿// A Hello World! program in C#.
+using System;
+namespace HelloWorld
 {
-    class Program
+    class Ola 
     {
-        static void Main(string[] args)
+        static void Main() 
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Vamos desenvolver jogos com Unity em C#");
+
+            // Keep the console window open in debug mode.
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
         }
     }
 }
